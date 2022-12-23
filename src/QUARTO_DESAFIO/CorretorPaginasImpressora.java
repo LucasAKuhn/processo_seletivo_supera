@@ -2,7 +2,7 @@ package QUARTO_DESAFIO;
 
 import java.util.Scanner;
 
-public class meuCodigo {
+public class CorretorPaginasImpressora {
 
     public static void main(String[] args) {
 

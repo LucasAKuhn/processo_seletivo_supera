@@ -3,7 +3,7 @@ package PRIMEIRO_DESAFIO;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class Sistema {
+public class OrdenacaoParesImpares {
 
     public static void main(String[] args) {
 
@@ -34,14 +34,11 @@ public class Sistema {
         } else {
             System.out.println("Numero deve ser entre 1 e 10");
         }
-
-
     }
 
     static void valorNegativo() {
         throw new RuntimeException("Valores nao podem ser negativos");
     }
-
 }
 
 

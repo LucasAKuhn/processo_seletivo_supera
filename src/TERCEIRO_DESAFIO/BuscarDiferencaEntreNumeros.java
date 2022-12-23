@@ -2,7 +2,7 @@ package TERCEIRO_DESAFIO;
 
 import java.util.Scanner;
 
-public class Terceiro {
+public class BuscarDiferencaEntreNumeros {
 
     public static void main(String[] args) {
 
